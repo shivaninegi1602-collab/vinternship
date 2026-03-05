@@ -348,8 +348,8 @@ app.listen(3000, () => console.log("Hospital system running on port 3000"));
 -   Review logs to identify and resolve bottlenecks.
     
 
-## 10. Next Steps & Curiosity Hook
+<!-- ## 10. Next Steps & Curiosity Hook
 
 **Next:**  
-Learn how to use validation libraries to ensure every discharge packet is complete and correct-no more missing signatures or incomplete instructions!
+Learn how to use validation libraries to ensure every discharge packet is complete and correct-no more missing signatures or incomplete instructions! -->
 

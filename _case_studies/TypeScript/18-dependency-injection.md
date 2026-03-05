@@ -198,9 +198,9 @@ You can swap adapters (dependencies) without changing the device (business logic
     
 -   Avoid creating dependencies inside business logic classes.
 
-## 8. Coming up
+<!-- ## 8. Coming up
 
 **You’ve mastered Dependency Injection basics!**  
 Next, explore  **IoC Containers**  (like InversifyJS) for automatic dependency management and advanced DI features.
-
+ -->
 

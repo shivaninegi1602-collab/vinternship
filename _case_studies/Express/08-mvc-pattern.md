@@ -271,6 +271,6 @@ app.listen(port, () => {
 -   **Review regularly:**  Refactor if business logic creeps into controllers or data access leaks into services.
     
 
-## 10. Coming up next
+<!-- ## 10. Coming up next
 
-Learn to use automated dependency injection tools (like  `tsyringe`) to manage complex systems effortlessly!
+Learn to use automated dependency injection tools (like  `tsyringe`) to manage complex systems effortlessly! -->

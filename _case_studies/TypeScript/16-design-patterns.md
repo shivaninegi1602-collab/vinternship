@@ -229,7 +229,7 @@ barista.makeDrink(); // "Eco prep!"
 -   Want to swap behaviors easily? Use Strategy.
     
 
-## 8. Coming up next:
+<!-- ## 8. Coming up next:
  
 Master  **Dependency Injection**-the secret ingredient for building flexible, testable, and loosely coupled systems.  
-Imagine your café’s staff and machines always getting the right tools, ingredients, and helpers-automatically!
+Imagine your café’s staff and machines always getting the right tools, ingredients, and helpers-automatically! -->

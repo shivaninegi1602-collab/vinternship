@@ -276,6 +276,6 @@ Just like a staff member checking each application, our route handler reviews th
 -   Document validation rules for users and staff.
     
 
-## 10. Coming up next
+<!-- ## 10. Coming up next
 
-Learn how to combine validation with authentication and authorization, so only the right people can submit or review applications!
+Learn how to combine validation with authentication and authorization, so only the right people can submit or review applications! -->

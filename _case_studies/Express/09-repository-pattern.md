@@ -341,11 +341,11 @@ app.listen(3000, () => console.log('Server running on port 3000'));
 -   Keep repository interfaces in the domain layer.
     
 
-----------
+<!-- ----------
 
 ## 9. Coming up Next
 
-Learn how to use Dependency Injection to provide repositories to your services and controllers automatically-making your app even more modular, testable, and ready for growth!
+Learn how to use Dependency Injection to provide repositories to your services and controllers automatically-making your app even more modular, testable, and ready for growth! -->
 
 
 
