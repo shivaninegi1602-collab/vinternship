@@ -1,6 +1,8 @@
+---
 title: "From Rankings to Real Growth – My Vinternship Experience"
 author: Nikhil Kumar
 vinternship_id: WIN251468
+---
 
 When I got selected for the Vinternship, I felt confident. I had practiced DSA, explored machine learning fundamentals, and built backend projects. I believed this internship would primarily help me apply what I already knew.
 
@@ -36,6 +38,8 @@ Thankful as well to ANNAM.AI, Vicharanashala (Lab for Education Design), NPTEL, 
 
 This journey is still unfolding — and I am excited for what comes next.
 
+
+---
 
 Author: [Nikhil Kumar](https://www.linkedin.com/in/nikhil-kumar/){:target="_blank"}
 LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/pulse/from-rankings-real-growth-my-vinternship-experience-nikhil-kumar-nxnqc){:target="_blank"}

@@ -9,4 +9,6 @@ This vlog captures my Vinternship journey through the creative lens of poetry.<b
 I reflect on the transition from the initial "quiet fear" of the first day to the confidence gained through active participation.<br>
 This video aims to motivate fellow learners to embrace the process of growth, moving beyond hesitation to find their own voice.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kUeMhz7a6xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/kUeMhz7a6xQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

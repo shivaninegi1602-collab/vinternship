@@ -4,7 +4,6 @@ author: Sandhiya R
 pinternship_id: WIN251067
 ---
 
-***
 # Reflections from my NPTEL Winter Internship
 
 When I first applied for the NPTEL Winter Internship 2025, my motivation was simple. I was exploring different tech paths, and I saw this internship as another opportunity to understand where my interests truly lie.
