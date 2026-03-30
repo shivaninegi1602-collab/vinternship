@@ -1,5 +1,5 @@
 ---
-title: From Curiosity to Consistency: My Vinternship Journey
+title: "From Curiosity to Consistency: My Vinternship Journey"
 author: Shivani Negi
 vinternship_id: shivaninegi1602@gmail.com
 ---
