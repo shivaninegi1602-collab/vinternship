@@ -25,9 +25,9 @@ JavaScript felt different... but not entirely unfamiliar.
 
 I was curious about everything -
 
--What is MERN ?
--How does an internship actually work?
--What will I learn?
+* What is MERN ?
+* How does an internship actually work?
+* What will I learn?
 
 But along with excitement, there was a fear:
 
@@ -107,9 +107,9 @@ This internship was not just about coding.
 
 It taught me:
 
--How to actually learn
--How to think deeply about a problem
--What consistency truly means
+* How to actually learn
+* How to think deeply about a problem
+* What consistency truly means
 
 I remember in inaugural session, Sudarshan Iyengar Sir said:
 
